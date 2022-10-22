@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/blueflameiraq-website/static/css/main.073c9b0a.css",
-    "main.js": "/blueflameiraq-website/static/js/main.69e3555b.js",
+    "main.js": "/blueflameiraq-website/static/js/main.783ac3e8.js",
     "static/js/787.c4e7f8f9.chunk.js": "/blueflameiraq-website/static/js/787.c4e7f8f9.chunk.js",
     "static/media/logo.svg": "/blueflameiraq-website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/blueflameiraq-website/index.html",
     "main.073c9b0a.css.map": "/blueflameiraq-website/static/css/main.073c9b0a.css.map",
-    "main.69e3555b.js.map": "/blueflameiraq-website/static/js/main.69e3555b.js.map",
+    "main.783ac3e8.js.map": "/blueflameiraq-website/static/js/main.783ac3e8.js.map",
     "787.c4e7f8f9.chunk.js.map": "/blueflameiraq-website/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.69e3555b.js"
+    "static/js/main.783ac3e8.js"
   ]
 }
