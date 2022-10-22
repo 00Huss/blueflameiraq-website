@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/blueflameiraq-website/static/css/main.073c9b0a.css",
-    "main.js": "/blueflameiraq-website/static/js/main.783ac3e8.js",
-    "static/js/787.c4e7f8f9.chunk.js": "/blueflameiraq-website/static/js/787.c4e7f8f9.chunk.js",
-    "static/media/logo.svg": "/blueflameiraq-website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/blueflameiraq-website/index.html",
-    "main.073c9b0a.css.map": "/blueflameiraq-website/static/css/main.073c9b0a.css.map",
-    "main.783ac3e8.js.map": "/blueflameiraq-website/static/js/main.783ac3e8.js.map",
-    "787.c4e7f8f9.chunk.js.map": "/blueflameiraq-website/static/js/787.c4e7f8f9.chunk.js.map"
+    "main.css": "/static/css/main.073c9b0a.css",
+    "main.js": "/static/js/main.de7507d8.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
+    "main.de7507d8.js.map": "/static/js/main.de7507d8.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.783ac3e8.js"
+    "static/js/main.de7507d8.js"
   ]
 }
